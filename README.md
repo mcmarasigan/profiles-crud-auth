@@ -39,7 +39,7 @@ A user profile management system built with PHP 8, Laravel 13, and Tailwind CSS.
 ### 2. Clone and Install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/profiles-crud-auth.git
+git clone https://github.com/mcmarasigan/profiles-crud-auth.git
 cd profiles-crud-auth
 
 composer install
