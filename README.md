@@ -117,8 +117,6 @@ Visit: **http://localhost:8000**
 | Admin | admin@profilesauth.local | `Admin@1234` |
 | User | maria@example.com | `User@1234` |
 
-> Change these immediately after first login.
-
 ---
 
 ## Security Implementation
